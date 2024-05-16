@@ -18,8 +18,8 @@ async function main() {
     'Display access token',
     'List my inbox',
     'Send mail',
-    'Make a Graph call',
-    'Make a 2. Graph call'
+    'Create Calendar',
+    'List Calendars'
   ];
 
   while (choice != -1) {
